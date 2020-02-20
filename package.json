@@ -1,0 +1,25 @@
+{
+  "name": "webservice",
+  "version": "1.0.0",
+  "description": "Web Service in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanRiano/webservice.git"
+  },
+  "keywords": [
+    "json",
+    "nodejs",
+    "webservice",
+    "restfull"
+  ],
+  "author": "Brayan Riaño",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BryanRiano/webservice/issues"
+  },
+  "homepage": "https://github.com/BryanRiano/webservice#readme"
+}
