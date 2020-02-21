@@ -14,6 +14,7 @@ app.use(bodyParser.json());
 
 //routes
 require('./routes/vehiculo')(app);
+require('./routes/externo')(app);
 
 app.listen(3000, () => {
     console.log('Server started! on port 3000');
