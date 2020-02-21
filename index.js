@@ -1,8 +1,6 @@
 const express = require('express')
 const app = express();
 const bodyParser = require('body-parser');
-var config = require('./config/config');
-var globals = config['database'];
 const cors = require('cors')
 
 var corsOptions = {
